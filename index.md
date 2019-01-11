@@ -1,37 +1,24 @@
-##Welcome to GitHub Pages
+## Introduction
+      In this essay, Sino-Japanese trade and political/ideological relations of between the Tokugawa period and today will be compared, and it will be concluded that although the positions between Japan and China has become switched similar patterns and outcomes to that of the Tokugawa period are present within the relations today.  
 
-You can use the [editor on GitHub](https://github.com/Chimand/Chimand.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Chimand/Chimand.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Japan-China relations during the Tokugawa period
+      After “government to government relations were rejected in 1621” (Toby, 1991, p.196), Japan did not have any formal political relations with China. Instead a political/ideological struggle commenced between the two countries with the purpose for Japan of legitimizing their own Japan-centric world order. This break in relations also served to prove the Tokugawa legitimacy of their rule of Japan (Tipton, 2008, pp.2-3). Although ideological reasons caused two of the most powerful governments in East Asia to cease diplomatic relations, the Tokugawa still “carried out a profitable trade with private Chinese merchants” (Tipton, 2008, p.3).
+      The Chinese trade conducted in Nagasaki after 1635 were both active and relative liberal, bringing wealth, information, and cultural influences from China into Japan. Although not to the level of economic dependency this trade generated a lot of wealth for the local community and Tokugawa alike, but the trade was later restricted by the shinpai system in 1715. The shinpai system of access to Japan later got accepted by the Chinese Emperor thus in practice confirming Japanese superiority and centrality (Toby, 1991, pp.197-202).
+     We can see a contradiction between trade and other international policies, where Sino-Japanese trade relations although not yet at the level to be considered interdependent certainly were important to both countries, especially at a local community level, yet at the same time the central government’s policy towards China and other nations was one of distance and actions to prove its own superiority.
+Japan-China relations today
+     Today an economic interdependence between China and Japan have developed, while there at the same time there are land disputes and cold political relations. In the 1970s-80s Sino-Japanese bilateral trade grew rapidly (Howe, 1996, pp.112-113), to the extent that 20% of China’s trade was with Japan (Yokoi, 1996, p.139). With two of today’s biggest economies in close proximity, one can imagine a fierce economic rivalry could be created. However Kwan (2011 pp.149-150) argues that Japan and China has created a “win-win game” in between them that helps both economies to grow, and while some Japanese companies fear a stronger Chinese economy this also creates opportunities for Japan and China to “strengthen their mutually complementary bilateral economic relations” (Koizumi, 2002).
+     The pattern in post-war Japan has been one of trying to separate politics and economics in favour of economic growth. With this and the 21th centuries rise in nationalistic stances towards each other, “’cold politics and hot economics’ has […] become a defining feature of their bilateral relations” (Koo, 2011, p.154).  One example where politics have come to hinder economic benefit is the Senkaku dispute, that through joint development of natural resources has the prospect of becoming mutually profitable, but has instead turned into a nationalistic struggle between China and Japan that neither part can back down from without taking a hit to national pride and risking their legitimacy over other islands claims in the region.
+Discussion
+     During the early Tokugawa period, private Chinese traders lived at and traveled to the Japanese West/South-West coast providing opportunities for local communities to profit from this trade. Similarly, today it is the Japanese private investors that have stood for the biggest part in the bilateral economic relations between the countries (Smith, 2015, p.38).  That the Chinese trade was allowed to continue after the 1635 restriction to Nagasaki, whilst Tokugawa was trying to separate itself from the Chinese world order shows the importance of this trade and is resembling how the Japanese and Chinese governments today are keen to not let political differences come in the way of economic benefits. Although the flow of ‘who supplies what’ has changed in the sense that during the Tokugawa period high value products such as silk came from China to Japan, and today it is instead Japan who supplies China with luxury products and technology.
+     The two blocks of the ‘ideological battle’ between the Chinese world order and the Japanese world order that was prevalent in their interactions with each other and other countries, is still a struggle that can be seen in the region today with the socialist Chinese state, lead by the ‘Communist Party of China’ and the capitalist Japan-US block.
+     During the Tokugawa period China’s Confucianism influenced Japan to create its own world order. China supplied Japan with the groundwork it needed to break away from a follower position to China which put Japan on the road to overtake the Chinese position as a leader in the East Asian region. Today we have a similar, but reversed, change happening between China and Japan. Japanese direct investments have helped to build up a booming economy in China by supplying basic technology and employment opportunities. Japan however kept technological expertise back at home, creating a market for their higher quality products in China. Pyle (2007, p.42) say that these kind of economic patterns also could be seen in the internal trade between states in Japan during the Tokugawa rule.
+          That China is not content to be a follower of Japan anymore but instead wants to be an authority once again can for one, be seen in how they challenge Japan to recent contracts on high speed rail constructions in Asia (Reynolds, 2016), one of many high tech areas that until recently have not been of colliding economic interests (Kwan, 2011, pp.146-147). As in with the Tokugawa period where Japan broke off relations with China to empower their own position, and some beliefs of today that a rising China would mean a declining Japan, whilst other believe a economically strong China will drag Japan with it creating two strong economies feeding of one another and thus growing stronger together (Samuels, 2007, pp.159-160).
+Conclusion
+     In conclusion, by comparing the Tokugawa and the late 20th and 21st century, and by focusing on two aspects, trade/economical relations and political relations between China and Japan, similar patterns in the Sino-Japanese relations then and now are visible. Trade relations has been the more active and one might say the more important and influential part of Sino-Japanese relations, evolving into today’s interdependence. During both times economic relations kept developing despite cold diplomatic relations that both today and in the Tokugawa period stemmed from the wish to break from a follower position and establish oneself in a leading role in the East-Asia region. It is interesting how the dynamics within these similarities keep changing, starting with China “pulling” Japan out of the Chinese world order, and today Japan has in turn provided the economic means for China to be pulled from a position behind Japan to instead take their place. If this kind of ‘rubber banding’ was to continue like this in the future a strong economic China could very well be in Japan’s interest to help the Japanese economy to once again get back on top.  
+References
+Howe, C. 1996, “China, Japan and Economic Interdependence in the Asia Pacific Region”, in Howe, C. (ed) China and Japan: History, Trends, and Prospects. Oxford: Clarendon Press. pp. 98-126.
+Koizumi, J. 2002, "Asia in a New Century - Challenge and Opportunity", Speech at the Boao Forum for Asia, [Online], Available at:  http://www.mofa.go.jp/region/asia-paci/china/boao0204/speech.html, Accessed: 20 Dec 2016.
+Koo, M. 2011, “The Senkaku/Diaoyu Dispute and Sino-Japanese Political-Economic Relations: Cold Politics and Hot Economics?”, in Rose, C. (ed) Sino-Japanese Relations: History, Politics, Economy and Security.  Vol.3, 1st ed. London: Routledge. pp.153-179.
+Kwan, C. 2011, “Complementary in Sino-Japanese Relations: Towards a Win-Win Game”, in Rose, C. (ed) Sino-Japanese Relations: History, Politics, Economy and Security, Vol.3, 1st ed. London: Routledge, pp.146-152.
+Pyle, K. 2007, “Japan rising: The Resurgence of Japanese Power and Purpose”, 1st ed. New York: Public Affairs.
+Samuels, R. 2007, “Securing Japan: Tokyo’s Grand Strategy and the Future of East Asia”,1st ed. Ithaca: Cornell University Press.
