@@ -1,4 +1,4 @@
-###Introduction
+#Header3 Introduction
 
       In this essay, Sino-Japanese trade and political/ideological relations of between the Tokugawa period and today will be compared, and it will be concluded that although the positions between Japan and China has become switched similar patterns and outcomes to that of the Tokugawa period are present within the relations today.  
 
