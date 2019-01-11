@@ -17,14 +17,24 @@
      In conclusion, by comparing the Tokugawa and the late 20th and 21st century, and by focusing on two aspects, trade/economical relations and political relations between China and Japan, similar patterns in the Sino-Japanese relations then and now are visible. Trade relations has been the more active and one might say the more important and influential part of Sino-Japanese relations, evolving into today’s interdependence. During both times economic relations kept developing despite cold diplomatic relations that both today and in the Tokugawa period stemmed from the wish to break from a follower position and establish oneself in a leading role in the East-Asia region. It is interesting how the dynamics within these similarities keep changing, starting with China “pulling” Japan out of the Chinese world order, and today Japan has in turn provided the economic means for China to be pulled from a position behind Japan to instead take their place. If this kind of ‘rubber banding’ was to continue like this in the future a strong economic China could very well be in Japan’s interest to help the Japanese economy to once again get back on top.  
 References
 Howe, C. 1996, “China, Japan and Economic Interdependence in the Asia Pacific Region”, in Howe, C. (ed) China and Japan: History, Trends, and Prospects. Oxford: Clarendon Press. pp. 98-126.
+
 Koizumi, J. 2002, "Asia in a New Century - Challenge and Opportunity", Speech at the Boao Forum for Asia, [Online], Available at:  http://www.mofa.go.jp/region/asia-paci/china/boao0204/speech.html, Accessed: 20 Dec 2016.
+
 Koo, M. 2011, “The Senkaku/Diaoyu Dispute and Sino-Japanese Political-Economic Relations: Cold Politics and Hot Economics?”, in Rose, C. (ed) Sino-Japanese Relations: History, Politics, Economy and Security.  Vol.3, 1st ed. London: Routledge. pp.153-179.
+
 Kwan, C. 2011, “Complementary in Sino-Japanese Relations: Towards a Win-Win Game”, in Rose, C. (ed) Sino-Japanese Relations: History, Politics, Economy and Security, Vol.3, 1st ed. London: Routledge, pp.146-152.
+
 Pyle, K. 2007, “Japan rising: The Resurgence of Japanese Power and Purpose”, 1st ed. New York: Public Affairs.
+
 Samuels, R. 2007, “Securing Japan: Tokyo’s Grand Strategy and the Future of East Asia”,1st ed. Ithaca: Cornell University Press.
+
 Smith, S. 2015, “Intimate Rivals: Japanese Domestic Politics and a Rising China”, New York: Colombia University Press.
+
 Reynolds, I. 2016, “Asia's High-Speed Rail Rivalry Draws Japan Towards India”, [online] Bloomberg.com, Available at: https://www.bloomberg.com/news/articles/2016-11-10/abe-eyes-india-to-cement-high-speed-rail-dominance-over-china, Accessed 29 Jan. 2017.
+
 Tipton, E. (2008), ”Modern Japan: A social and political history”. 2nd ed. London: Routledge.
+
 Toby, R. 1991, “State and Diplomacy in Early Modern Japan: Asia in the Development of the Tokugawa Bakufu”, Stanford: Stanford University Press.
+
 Yokoi, Y. 1996, “Plant and Technology Contracts and the Changing Pattern of Economic Interdependence Between China and Japan”, in Howe, C. (ed) China and Japan: History, Trends, and Prospects. Oxford: Clarendon Press, pp.127-146. 
 
